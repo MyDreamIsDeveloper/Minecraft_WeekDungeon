@@ -1,0 +1,5 @@
+name: WeekDungeon
+main: com.windows.WeekDungeon.WeekDungeon
+version: 1.0
+commands:
+  요일던전:
